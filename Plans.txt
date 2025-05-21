@@ -111,9 +111,42 @@ Tasks:						Time:					Complete:
 
 Plans for 17.05.2025:
 Tasks:						Time:					Complete:
-1. Daily Training				30min					no
-2. Blender Learning				1hour					no
-3. Book 					30min					no
-4. Code wars 					30min					no
-5. Start Up					30min					no 
-it's not completed my daily task
+1. Daily Training				30min					Yes
+2. Blender Learning				1hour					Yes
+3. Book 					30min					Yes
+4. Code wars 					30min					Yes
+5. Katakana 					1hour					Yes
+
+Plans for 18.05.2025:
+Tasks:						Time:					Complete:
+1. Daily training				30min					Yes
+2. Blender 					30min					Yes
+3. Homework					1hour					Yes
+4. Interview					30min					No
+Plans for 19.05.2025: (Undefined)
+
+Plans for 20.05.2025 
+Tasks:						Time:					Complete:
+1. Daily Training				30min					No
+2. Git hub					30min					Yes
+3. Interview 					30min	 				No
+4. Blender					30min					No
+
+Plans for 21.05.2025:
+Tasks:						Time					Complete:
+1. Daily Training				30min 					Yes
+2. Git hub					1hour					Yes
+3. Interview					30min 					Yes
+4. Revising lessons				30min					Yes
+5. Katakana (Revising)				30min					Yes
+6. Codewars					30min					No
+7. Book						30min 					Yes
+
+Plans for 22.05.2025:
+Tasks:						Time					Complete:
+1. Daily Training				30min					
+2. Git hub clone				1hour					
+3. Codewars					30min					
+4. Japanese 					30min					
+5. Reading book					30min					
+6. Interview					1hour					
