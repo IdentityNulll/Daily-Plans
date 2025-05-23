@@ -144,9 +144,17 @@ Tasks:						Time					Complete:
 
 Plans for 22.05.2025:
 Tasks:						Time					Complete:
-1. Daily Training				30min					
-2. Git hub clone				1hour					
-3. Codewars					30min					
-4. Japanese 					30min					
-5. Reading book					30min					
-6. Interview					1hour					
+1. Daily Training				30min					Yes
+2. Git hub clone				1hour					Yes
+3. Codewars					30min					No
+4. Japanese 					30min					Yes
+5. Reading book					30min					Yes
+6. Interview					1hour					Yes
+7. Telegram bot					1hour					(Will learn from H)
+
+Plans for 22.05.2025:
+Tasks:						Time					Complete:
+1. Training					30min					Yes
+2. Git hub clone				4hour					
+3. Code wars					1hour					
+4. Reading Book					30min					
