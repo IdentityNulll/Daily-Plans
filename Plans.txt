@@ -155,6 +155,14 @@ Tasks:						Time					Complete:
 Plans for 22.05.2025:
 Tasks:						Time					Complete:
 1. Training					30min					Yes
-2. Git hub clone				4hour					
-3. Code wars					1hour					
-4. Reading Book					30min					
+2. Git hub clone				4hour					Yes
+3. Code wars					1hour					No
+4. Reading Book					30min					Yes
+
+Plans for 23.05.2025: (Can't remember what i did huh?)
+
+Plans for 24.05.2025:
+Tasks:						Time:					Complete:
+1. Training					30min					Yes
+2. Git hub					2hours					
+3. Rising hehe					2hours					
