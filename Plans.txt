@@ -164,5 +164,27 @@ Plans for 23.05.2025: (Can't remember what i did huh?)
 Plans for 24.05.2025:
 Tasks:						Time:					Complete:
 1. Training					30min					Yes
-2. Git hub					2hours					
-3. Rising hehe					2hours					
+2. Git hub					2hours					Yes
+3. Rising hehe					2hours					No
+
+Plans for 25.05.2025:				
+Tasks 						Time:					Complete:
+1. Training					30min 					No
+2. Reading book					30min					No
+3. Git hub (Finish)				3hours					No
+
+Plans for 26.05.2025:
+Tasks:						Time:					Complete:
+1. Training					30min					Yes
+2. Book						30min					Yes
+3. Git hub clone 				4hours					Yes
+4. Code wars					1hour					Yes
+5. Interview					1hour					No
+
+Plans for 27.05.2025:
+Tasks:						Time:					Complete:
+1. Training					30min 					
+2. Book						30min					
+3. Code wars 					1hour					
+4. Interview 					1hour					
+5. Revising lessons				30min 					
