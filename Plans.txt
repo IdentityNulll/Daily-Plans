@@ -191,7 +191,9 @@ Tasks:						Time:					Complete:
 
 Plans for 28.05.2025:
 Tasks:						Time:					Complete:
-1. Training					30min					
-2. Code wars					1hour					
+1. Training					30min					Yes
+2. Code wars					1hour					Yes
 3. Book 					1hour					
 4. Some coding react with videos		1hour					
+5. Trying to find some ideas for money		30min					Yes
+5. Adding some other things to git hub clone	30min					Yes
