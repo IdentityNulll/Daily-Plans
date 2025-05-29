@@ -201,6 +201,6 @@ Tasks:						Time:					Complete:
 Plans for 29.05.2025:
 Tasks:						Time:					Complete:
 1. Training					30min					Yes
-2. Book 					30min					
-3. Code wars					45min					
-4. React 					3hours					
+2. Book 					30min					Yes
+3. Code wars					45min					No
+4. React 					3hours					No
