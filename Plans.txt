@@ -214,4 +214,6 @@ Plans for 31.05.2025:
 Tasks:						Time:					Complete:
 1. Training					30min					Yes
 2. React					1hour					
-3. Anime site					1hour
+3. Anime site					1hour					
+4. Book						30min					
+5. CSS battle					1hour					
