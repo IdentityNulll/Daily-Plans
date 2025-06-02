@@ -230,7 +230,7 @@ Plans for 02.06.2025:
 Tasks:						Time:					Complete:
 1. Praying					30min					1/5
 2. Training					1hour					Yes
-3. Anime site					1hour					
+3. Anime site					1hour					No
 4. Code wars					30min					
-5. Monkey Type					30min					
+5. Monkey Type					30min					Yes
 6. Book						30min					
