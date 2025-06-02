@@ -225,3 +225,12 @@ Tasks:						Time:					Complete:
 3. Anime site					1hour					Yes
 4. CSS battle					1hour					Yes
 5. React coding					1hour					Yes
+
+Plans for 02.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					30min					1/5
+2. Training					1hour					Yes
+3. Anime site					1hour					
+4. Code wars					30min					
+5. Monkey Type					30min					
+6. Book						30min					
