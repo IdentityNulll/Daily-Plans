@@ -237,8 +237,8 @@ Tasks:						Time:					Complete:
 
 Plans for 03.06.2025:
 Tasks:						Time:					Complete:
-1. Praying					30min					0/5
-2. Training					1hour					
+1. Praying					30min					1/5
+2. Training					1hour					Yes
 3. Code wars					30min					
 4. Book						30min					
 5. CSS Battle					1hour					
