@@ -234,3 +234,12 @@ Tasks:						Time:					Complete:
 4. Code wars					30min					Yes
 5. Monkey Type					30min					Yes
 6. Book						30min					No
+
+Plans for 03.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					30min					0/5
+2. Training					1hour					
+3. Code wars					30min					
+4. Book						30min					
+5. CSS Battle					1hour					
+6. React Coding					1hour					
