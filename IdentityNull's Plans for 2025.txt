@@ -1,0 +1,11 @@
+🗺️ IdentityNull's 2025 Tech Roadmap
+
+📅 Deadline		🎯 Goal					✅ Finished On Time?
+
+05.07.2025		✅ Fully learn Three.js			☐ Yes ☐ No
+
+End of Summer		✅ Finish Frontend Development		☐ Yes ☐ No
+
+01.11.2025		✅ Learn Electron.js			☐ Yes ☐ No
+
+End of Winter		✅ Finish Backend Development		☐ Yes ☐ No
