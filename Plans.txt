@@ -247,7 +247,7 @@ Tasks:						Time:					Complete:
 Plans for 04.06.2025:
 Tasks:						Time:					Complete:
 1. Training					30min					Yes
-2. React video coding				5hours					Loading .. 
+2. React video coding				5hours					Yes 
 3. Book 					30min					
 4. Three.js					1hour					
 5. CSS Battle					1hour					
