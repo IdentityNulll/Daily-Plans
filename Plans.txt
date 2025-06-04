@@ -249,5 +249,6 @@ Tasks:						Time:					Complete:
 1. Training					30min					Yes
 2. React video coding				5hours					Yes 
 3. Book 					30min					Yes
-4. Three.js					1hour					
-5. CSS Battle					1hour					
+4. Three.js					1hour					No
+5. CSS Battle					1hour					No
+6. Praying					30min					Yes
