@@ -252,3 +252,11 @@ Tasks:						Time:					Complete:
 4. Three.js					1hour					No
 5. CSS Battle					1hour					No
 6. Praying					30min					Yes
+
+Plans for 05.06.2025 
+Tasks:						Time:					Complete:
+1. Praying 					30min					0/5
+2. Training					1hour					Yes
+3. Book						10Pages					
+4. React Coding 				2hours					
+5. Three.js 					2hours					
