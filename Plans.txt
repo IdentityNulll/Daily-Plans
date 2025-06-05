@@ -259,4 +259,4 @@ Tasks:						Time:					Complete:
 2. Training					1hour					Yes
 3. Book						10Pages					
 4. React Coding 				2hours					
-5. Three.js 					2hours					
+5. Three.js 					2hours					Yes
