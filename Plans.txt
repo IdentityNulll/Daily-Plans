@@ -260,3 +260,10 @@ Tasks:						Time:					Complete:
 3. Book						10Pages					No
 4. React Coding 				2hours					No
 5. Three.js 					2hours					Yes
+
+Plans for 06.06.2025:
+Tasks:						Time:					Complete:
+1. Praying 					30min					1/5
+2. Training					30min					Yes
+3. React coding					2hours					
+4. Book						30min					
