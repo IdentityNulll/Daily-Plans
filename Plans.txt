@@ -264,6 +264,8 @@ Tasks:						Time:					Complete:
 Plans for 06.06.2025:
 Tasks:						Time:					Complete:
 1. Praying 					30min					1/5
-2. Training					30min					Yes
-3. React coding					2hours					
+2. Training					2hours					Yes
+3. React coding					2hours					Yes
 4. Book						30min					
+5. Three.js					1hour					
+6. Blender					30min					
