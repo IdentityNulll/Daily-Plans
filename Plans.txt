@@ -285,4 +285,5 @@ Tasks:						Time:					Complete:
 2. Training					1hour					Yes
 3. Book						30min					Yes
 4. Three.js 					1hour					Yes
-5. React Coding					1hour					
+5. React Coding					1hour					No
+Never will be in a relationship ever again (Well it was a lesson of this day hehe)
