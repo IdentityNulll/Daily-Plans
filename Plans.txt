@@ -79,7 +79,8 @@ Finished 4/5 i guess great enough
 Plans for 12.05.2025:									
 Tasks:											Complete:
 1. Daily training									
-2. Reading book										
+2. Reading book			
+							
 Plans for 13 (Had so many problems could not but learned three js)
 
 Plans for 14.05.2025: 
@@ -263,7 +264,7 @@ Tasks:						Time:					Complete:
 
 Plans for 06.06.2025:
 Tasks:						Time:					Complete:
-1. Praying 					30min					4/5
+1. Praying 					30min					5/5
 2. Training					2hours					Yes
 3. React coding					2hours					Yes
 4. Book						30min					No
@@ -273,7 +274,15 @@ Tasks:						Time:					Complete:
 Plans for 07.06.2025
 Tasks:						Time:					Complete:
 1. Training					1hour					Yes
-2. Book						30min					
-3. Three.js					2hour					
-4. React coding					1hour					
-5. Praying					30min					0/5
+2. Book						30min					Yes
+3. Three.js					2hour					No
+4. React coding					1hour					No
+5. Praying					30min					3/5
+
+Plans for 08.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					30min					1/5
+2. Training					1hour					Yes
+3. Book						30min					
+4. Three.js 					1hour					
+5. React Coding					1hour					
