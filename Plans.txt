@@ -290,8 +290,8 @@ Never will be in a relationship ever again (Well it was a lesson of this day heh
 
 Plans for 09.06.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					2/5
+1. Praying					5times					5/5
 2. Training					1hour					Yes
 3. Three.js					1hour					
-4. Reading Book					10Pages					
+4. Reading Book					10Pages					Yes
 5. Creating a new site				30min					Yes
