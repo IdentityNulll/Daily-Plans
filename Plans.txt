@@ -294,4 +294,4 @@ Tasks:						Time:					Complete:
 2. Training					1hour					Yes
 3. Three.js					1hour					
 4. Reading Book					10Pages					
-5. Creating a new site				30min					
+5. Creating a new site				30min					Yes
