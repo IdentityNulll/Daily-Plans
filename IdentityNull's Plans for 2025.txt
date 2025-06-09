@@ -9,3 +9,16 @@ End of Summer		✅ Finish Frontend Development		☐ Yes ☐ No
 01.11.2025		✅ Learn Electron.js			☐ Yes ☐ No
 
 End of Winter		✅ Finish Backend Development		☐ Yes ☐ No
+
+
+
+
+
+
+🗺️ IdentityNull's 2025 Body Roadmap
+
+📅 Deadline		🎯 Goal					✅ Finished On Time?
+
+09.06.2025		✅ Fully being able to frog stand	☐ Yes ☐ No
+09.06.2025		✅ And 30sec elbow lever		☐ Yes ☐ No
+
