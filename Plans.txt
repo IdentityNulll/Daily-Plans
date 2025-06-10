@@ -292,6 +292,12 @@ Plans for 09.06.2025:
 Tasks:						Time:					Complete:
 1. Praying					5times					5/5
 2. Training					1hour					Yes
-3. Three.js					1hour					
+3. Three.js					1hour					No
 4. Reading Book					10Pages					Yes
 5. Creating a new site				30min					Yes
+
+Plans for 10.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					5times					3/5
+2. Training					1hour					Yes
+3. Reading a book				1Law					
