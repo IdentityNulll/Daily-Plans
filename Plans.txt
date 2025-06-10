@@ -298,6 +298,6 @@ Tasks:						Time:					Complete:
 
 Plans for 10.06.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					3/5
+1. Praying					5times					5/5
 2. Training					1hour					Yes
-3. Reading a book				1Law					
+3. Reading a book				1Law					No
