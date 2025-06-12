@@ -312,7 +312,7 @@ Tasks:						Time:					Complete:
 
 Plans for 12.06.2025:
 Tasks:						Time:					Complete:
-1. Praying					5 times					0/5
+1. Praying					5 times					1/5
 2. Training (Arms)				1 hour					Yes
 3. Homework					1hour					
 4. Three.js					1hour					
