@@ -320,8 +320,8 @@ Tasks:						Time:					Complete:
 
 Plans for 13.06.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					0/5
+1. Praying					5times					3/5
 2. Training (Chest)				1hour					Yes
-3. Homework					1hour					
-4. Three.js					1hour					
-5. Reading book					1law					
+3. Homework					1hour					Yes
+4. Three.js					1hour					No
+5. Reading book					1law					No
