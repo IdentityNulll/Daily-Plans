@@ -330,6 +330,6 @@ Plans for 14.06.2025:
 Tasks:						Time:					Complete:
 1. Praying					5times					1/5
 2. Training (Leg)				1hour					Yes
-3. Three.js					1hour					
+3. Three.js					1hour					Yes
 4. Homework					1hour					Yes
-5. Reading a book 				1 law					
+5. Reading a book 				1 law					No
