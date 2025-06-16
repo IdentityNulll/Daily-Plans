@@ -341,3 +341,11 @@ Tasks:						Time:					Complete:
 3. Three.js					1hour					No
 4. Quotes website				1hour					Yes
 5. Reading a book 				1law					No
+
+Plans for 16.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					5 times					1/5
+2. Training (Arms)				1hour					Yes
+3. Quotes website				30min					
+4. Reading a book				1law					
+5. Three.js					1hour					
