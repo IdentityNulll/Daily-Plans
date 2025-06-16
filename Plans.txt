@@ -347,5 +347,5 @@ Tasks:						Time:					Complete:
 1. Praying					5 times					3/5
 2. Training (Arms)				1hour					Yes
 3. Quotes website				30min					Yes
-4. Reading a book				1law					
+4. Reading a book				1law					Yes
 5. Three.js					1hour					
