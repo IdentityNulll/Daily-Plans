@@ -357,3 +357,9 @@ Tasks:						Time:					Complete:
 3. Quotes website				1hour					Yes
 4. Reading a book				1law					Yes
 5. Three.js					1hour					No
+
+Plans for 18.06.2025:
+Tasks:						Time:					Complete:
+1. Praying 					5times					1/5
+2. Training (Leg)				1hour					Yes
+3. Reading a book				1law					
