@@ -363,3 +363,11 @@ Tasks:						Time:					Complete:
 1. Praying 					5times					4/5
 2. Training (Leg)				1hour					Yes
 3. Reading a book				1law					No
+
+Plans for 19.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					5times					0/5
+2. Training (ABS)				1hour					Yes
+3. Reading a book				1law					
+4. Homework					1hour					
+5. Three.js					1hour					
