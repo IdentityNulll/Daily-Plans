@@ -371,3 +371,12 @@ Tasks:						Time:					Complete:
 3. Reading a book				1law					Yes
 4. Homework					1hour					No
 5. Three.js					1hour					No
+
+Plans for 20.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					5times					1/5
+2. Training (Arms)				2hours					Yes
+3. Homework					2hours					
+4. Reading a book				1law					
+5. Three.js					1hour					
+6. Cooking					1hour					
