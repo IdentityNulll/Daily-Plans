@@ -383,8 +383,8 @@ Tasks:						Time:					Complete:
 
 Plans for 21.06.2025:
 Tasks:						Time:					Complete:
-1.Praying					5times					1/5
+1.Praying					5times					4/5
 2. Training (Chest)				1hour					Yes
-3. Reading a book				1law					
-4. Three.js					1hour					
+3. Reading a book				1law					No
+4. Three.js					1hour					No
 5. Homework					2hours					Yes
