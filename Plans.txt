@@ -397,3 +397,10 @@ Tasks:						Time:					Complete:
 2. Training					1hour					Yes
 3. Homework					30min					Yes
 4. Three.js					1hour					No
+
+Plans for 27.06.2025:
+Tasks:						Time:					Complete:
+1. Praying					5times					3/5
+2. Training					1hour					Yes
+3. Homework					1hour					
+4. Reading book					1law					
