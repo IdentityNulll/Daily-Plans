@@ -400,7 +400,7 @@ Tasks:						Time:					Complete:
 
 Plans for 27.06.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					3/5
+1. Praying					5times					4/5
 2. Training					1hour					Yes
-3. Homework					1hour					
-4. Reading book					1law					
+3. Homework					1hour					Yes
+4. Reading book					1law					No
