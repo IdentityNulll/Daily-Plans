@@ -417,8 +417,8 @@ Tasks:						Time:					Complete:
 
 Plans for 30.06.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					0/5
+1. Praying					5times					3/5
 2. Training					1hour					Yes
-3. Three.js					1hour					
-4. Reading book					1law					
-5. Plans app					1hour					
+3. Three.js					1hour					No
+4. Reading book					1law					No
+5. Plans app					1hour					Yes
