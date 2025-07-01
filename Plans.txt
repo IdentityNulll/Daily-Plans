@@ -427,5 +427,5 @@ Plans for 1.07.2025:
 Tasks:						Time:					Complete:
 1. Praying					5times					1/5
 2. Training					1hour					Yes
-3. Reading a book				1law					
+3. Reading a book				1law					Yes
 4. Plans app					1hour					Yes
