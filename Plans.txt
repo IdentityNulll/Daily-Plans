@@ -422,3 +422,10 @@ Tasks:						Time:					Complete:
 3. Three.js					1hour					No
 4. Reading book					1law					No
 5. Plans app					1hour					Yes
+
+Plans for 1.07.2025:
+Tasks:						Time:					Complete:
+1. Praying					5times					1/5
+2. Training					1hour					Yes
+3. Reading a book				1law					
+4. Plans app					1hour					Yes
