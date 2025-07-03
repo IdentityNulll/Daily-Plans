@@ -440,8 +440,8 @@ Tasks:						Time:					Complete:
 
 Plans for 3.07.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					1/5
+1. Praying					5times					5/5
 2. Training					1hour					Yes
-3. Video					2times					1/5
-4. Reading a book				1law					
-5. Telegram bot					1hour					
+3. Video					2times					1/2
+4. Reading a book				1law					No
+5. Telegram bot					1hour					No
