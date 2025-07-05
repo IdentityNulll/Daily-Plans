@@ -455,8 +455,8 @@ Tasks:						Time:					Complete:
 
 Plans for 05.07.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					2/5
+1. Praying					5times					5/5
 2. Training					1hour					Yes
 3. React self learning				3hours					Yes
 4. Telegram bot					2hours					
-5. Reading a book				Book finish				
+5. Reading a book				Book finish				Yes
