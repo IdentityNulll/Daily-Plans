@@ -458,5 +458,13 @@ Tasks:						Time:					Complete:
 1. Praying					5times					5/5
 2. Training					1hour					Yes
 3. React self learning				3hours					Yes
-4. Telegram bot					2hours					
+4. Telegram bot					2hours					No
 5. Reading a book				Book finish				Yes
+
+Plans for 10.07.2025:
+Tasks:						Time:					Complete:
+1. Praying					5times					0/5
+2. Training					1hour					
+3. React learning				2hours					
+4. Photoshop learning				2hours					
+5. Website Building				2hours					
