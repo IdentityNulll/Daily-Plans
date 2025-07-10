@@ -464,7 +464,7 @@ Tasks:						Time:					Complete:
 Plans for 10.07.2025:
 Tasks:						Time:					Complete:
 1. Praying					5times					0/5
-2. Training					1hour					
+2. Training					1hour					Yes
 3. React learning				2hours					
-4. Photoshop learning				2hours					
+4. Photoshop learning				2hours					Reasons
 5. Website Building				2hours					
