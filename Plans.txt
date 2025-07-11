@@ -471,6 +471,6 @@ Tasks:						Time:					Complete:
 
 Plans for 11.07.2025:
 Tasks:						Time:					Complete:
-1. Praying					5times					1/5
+1. Praying					5times					4/5
 2. Training					1hour					Yes
-3. Book						30min					
+3. Book						30min					Yes
